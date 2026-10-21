@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Настольная лампа Маяк",
+      "description": "Светлая металлическая лампа с поворотным плафоном. Для рабочего стола и чтения.",
+      "category": "Свет",
+      "price": 3290,
+      "inStock": true,
+      "stock": 12,
+      "icon": "lamp",
+      "image": "/images/lamp.png"
+    },
+    {
+      "id": 2,
+      "name": "Керамическая кружка Утро",
+      "description": "Матовая керамика, спокойный оттенок и удобная широкая ручка. 350 мл.",
+      "category": "Посуда",
+      "price": 890,
+      "inStock": true,
+      "stock": 28,
+      "icon": "mug",
+      "image": "/images/mug.png"
+    },
+    {
+      "id": 3,
+      "name": "Блокнот Точка",
+      "description": "120 страниц в точку на плотной бумаге. Для заметок и небольших планов.",
+      "category": "Канцелярия",
+      "price": 650,
+      "inStock": true,
+      "stock": 34,
+      "icon": "book",
+      "image": "/images/book.png"
+    },
+    {
+      "id": 4,
+      "name": "Ваза Линия",
+      "description": "Невысокая керамическая ваза для сухоцветов и небольших букетов.",
+      "category": "Декор",
+      "price": 1890,
+      "inStock": true,
+      "stock": 9,
+      "icon": "vase",
+      "image": "/images/vase.png"
+    },
+    {
+      "id": 5,
+      "name": "Настольные часы Пауза",
+      "description": "Лаконичные часы с бесшумным ходом и крупным циферблатом.",
+      "category": "Декор",
+      "price": 2190,
+      "inStock": true,
+      "stock": 7,
+      "icon": "clock",
+      "image": "/images/clock.png"
+    },
+    {
+      "id": 6,
+      "name": "Подставка для книг Ритм",
+      "description": "Металлическая подставка с матовым покрытием для книг и документов.",
+      "category": "Канцелярия",
+      "price": 1190,
+      "inStock": true,
+      "stock": 16,
+      "icon": "stand",
+      "image": "/images/stand.png"
+    },
+    {
+      "id": 7,
+      "name": "Стакан Роса",
+      "description": "Прозрачное стекло с тонким рельефом. Подходит для холодных напитков.",
+      "category": "Посуда",
+      "price": 490,
+      "inStock": true,
+      "stock": 25,
+      "icon": "glass",
+      "image": "/images/glass.png"
+    },
+    {
+      "id": 8,
+      "name": "Светильник Тихий вечер",
+      "description": "Компактный ночник с мягким тёплым светом для спальни.",
+      "category": "Свет",
+      "price": 2590,
+      "inStock": true,
+      "stock": 11,
+      "icon": "light",
+      "image": "/images/light.png"
+    }
+  ],
+  "users": [],
+  "orders": []
+}

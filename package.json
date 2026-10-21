@@ -1,0 +1,8 @@
+{
+  "name":"list-shop-v2",
+  "version":"2.0.0",
+  "private":true,
+  "description":"Учебный интернет-магазин Лист: Node.js API и React TypeScript",
+  "scripts":{"start":"node server.js","test":"node --test tests/*.test.js","dev:react":"npm --prefix react-client run dev","build:react":"npm --prefix react-client run build"},
+  "engines":{"node":">=20"}
+}

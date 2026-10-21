@@ -1,0 +1,5 @@
+node_modules/
+react-client/node_modules/
+react-client/dist/
+data/shop.json
+.env
